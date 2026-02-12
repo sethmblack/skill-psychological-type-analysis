@@ -1,11 +1,10 @@
 ---
 name: psychological-type-analysis
-description: Assess psychological type using Carl Jung's original framework—attitudes
-  and functions—to illuminate cognitive style, blind spots, and paths for development.
+description: Assess psychological type using Carl Jung's original framework—attitudes and functions—to illuminate cognitive style, blind spots, and paths for development.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - psychological-type-analysis
 - writing
